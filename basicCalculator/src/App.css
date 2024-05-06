@@ -1,0 +1,40 @@
+body{
+  background-color: black;
+}
+.border{
+  width: 350px;
+  border: 10px solid orange;
+  padding: 10px;
+  border-radius: 15px;
+  background-color: black;
+}
+.input-field{
+  background-color: orange;
+  width: 90%;
+  font-size: 50px;
+  border-radius: 10px;
+  border: 1px solid grey;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  padding: 5px;
+  padding-left: 10px;
+}
+.btn-area{
+  width: 95%;
+  padding: 5px;
+}
+.call-btn{
+  background-color: orange;
+  border: none;
+  width: 30%;
+  height: 70px;
+  font-size: 30px;
+  border-radius: 10px;
+  margin: 3px;
+  font-weight: 700;
+  cursor: pointer;
+}
+.call-btn:hover{
+  background-color: lightgray;
+ 
+}
